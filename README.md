@@ -23,6 +23,7 @@ The data was found on Kaggle but was originally from the National Institute of D
 - /README.md - What you are looking at right now! This provides a summary of the project and links to data, visualizations, and calculations
 - /[data](https://github.com/jaylenroope-afk/DiabetesRiskPredictor/tree/main/data) - Contains raw and processed data, as well as summary statistics which was used in the calculation for diabetes risk
 - /[Tableau](https://github.com/jaylenroope-afk/DiabetesRiskPredictor/tree/main/Tableau) - Includes png and twbx files containing important visualizations
+- /[Risk Calculation](https://github.com/jaylenroope-afk/DiabetesRiskPredictor/tree/main/Risk%20Calculation) - Explains how the diabetes risk score was calculated
 - /[Presentation] - Slide deck used to present to stakeholders
 
 ---
