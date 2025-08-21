@@ -1,4 +1,4 @@
-# Diabetes Risk Analysis
+# 🔵 Diabetes Risk Analysis
 This is a predictive healthcare analytics project based on the [Pima Indians dataset](https://www.kaggle.com/datasets/nancyalaswad90/review/data) on Kaggle. This project aims to help patients and healthcare providers better understand an individual’s risk of developing Type 2 Diabetes by analyzing various health indicators and finding their predictive strengths. Excel and Tableau are the main two tools that will be used in this analysis.
 
 ---
