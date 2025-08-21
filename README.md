@@ -3,7 +3,7 @@ This is a predictive healthcare analytics project based on the [Pima Indians dat
 
 ---
 
-# 📊 About the Data
+## 📊 About the Data
 
 The data was found on Kaggle but was originally from the National Institute of Diabetes, Digestive and Kidney Diseases. All patients in the dataset are female, over 21 years of age, and of Pima Indian heritage. The dataset contains several medical predictor variables and one outcome variable which is whether the patient was diabetic or not. Dataset attributes included:
 
